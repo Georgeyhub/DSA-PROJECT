@@ -19,21 +19,33 @@ The primary source is a csv file of employee data of Palmoria Group and an Addit
 
 ### Key data cleaning steps were taken to ensure accuracy:
  • Employees with missing salary data (no longer with the company) were excluded.
+ 
  • Rows with missing department names were removed.
+ 
  • Missing gender values were standardized to “Undisclosed” to maintain inclusiveness.
 
 Through visual exploration using Power BI, the analysis revealed:
+
  • A noticeable gender imbalance across departments and regions, with some units entirely male-dominated.
+ 
  • Signs of gender related performance rating gaps, which may point to unconscious bias in evaluations.
+ 
  • A clear gender pay gap, particularly within certain departments such as Engineering and Procurement.
- • Several employees are earning below the $90,000 minimum salary recently mandated by regulation especially concentrated in Region C.
+ 
+ • Several employees are earning below the $90,000 minimum salary recently mandated by regulation.
+ 
  • Bonus payments, while linked to performance ratings, do not always reflect actual employee performance, requiring policy review.
+ 
 
 Using intuitive charts, filters, and interactive visuals with no advanced formulas or DAX the report distills critical insights for management action.
 
 Recommendations include:
+
  • Auditing and correcting the gender pay gap across departments.
+ 
  • Ensuring all salaries comply with the $90,000 minimum threshold.
+ 
  • Ensure bonus allocation more transparently with employee performance.
+ 
  • Improve recruitment and development strategies to accomodate gender balance.
 
