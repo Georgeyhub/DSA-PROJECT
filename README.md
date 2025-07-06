@@ -8,6 +8,7 @@ Project Overview
 This project is an evaluation of recent concerns and public criticism around gender inequality at Palmoria Group, this report presents a thorough analysis of the company’s human resource data across its three operational regions. Commissioned by the CHRO, Mr. Yunus Shofoluwe, this analysis aims to uncover disparities in workforce representation, pay structure, and performance evaluations with a particular focus on gender.
 
 Data Source
+
 The primary source is a csv file of employee data of Palmoria Group and an Additional Excel file for calculation of employee Bonus 
 
 Key data cleaning steps were taken to ensure accuracy:
